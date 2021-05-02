@@ -1,0 +1,2 @@
+com/rafhabs/interactfotos/BuildConfig.java
+ com.rafhabs.interactfotos.BuildConfig
